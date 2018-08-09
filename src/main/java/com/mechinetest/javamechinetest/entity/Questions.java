@@ -1,4 +1,4 @@
-package com.mechinetest.javamechinetest.entity;
+package com.mechineTest.JavamechineTest.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
