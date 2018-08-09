@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mechineTest.JavamechineTest.model;
+package com.onlinetest.mechinetestjava.model;
 
 /**
  * @author akhil

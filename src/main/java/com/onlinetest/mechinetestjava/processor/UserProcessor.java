@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mechineTest.JavamechineTest.processor;
+package com.onlinetest.mechinetestjava.processor;
 
 /**
  * @author akhil

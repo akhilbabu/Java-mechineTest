@@ -1,4 +1,4 @@
-package com.mechineTest.JavamechineTest;
+package com.onlinetest.mechinetestjava;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
